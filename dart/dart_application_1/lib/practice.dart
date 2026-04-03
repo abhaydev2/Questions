@@ -270,10 +270,10 @@ void main() {
   //checkNumberType();
   //fibonacciSeries();
   // countCharacters();
-  palindromeCheck();
-  // factorialProgram();
-  // listOperations();
-  // leapYearCheck();
+  //palindromeCheck();
+  //factorialProgram();
+  //listOperations();
+  leapYearCheck();
   // calculator();
   // multiplicationTable();
 }
