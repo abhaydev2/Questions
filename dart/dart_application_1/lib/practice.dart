@@ -267,7 +267,7 @@ void main() {
    //attendanceCheck();
   //reverseNumber();
   // temperatureConversion();
-  // checkNumberType();
+  checkNumberType();
   // fibonacciSeries();
   // countCharacters();
   // palindromeCheck();
