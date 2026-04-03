@@ -263,8 +263,8 @@ void multiplicationTable() {
 // MAIN FUNCTION
 void main() {
   //checkSquare();
-  //gradingSystem();
-  attendanceCheck();
+  gradingSystem();
+  // attendanceCheck();
   // reverseNumber();
   // temperatureConversion();
   // checkNumberType();
