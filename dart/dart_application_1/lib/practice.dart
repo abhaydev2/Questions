@@ -78,13 +78,13 @@ void temperatureConversion() {
 
   int choice = int.parse(stdin.readLineSync()!);
 
-  print("Enter temperature:");
+  print("temperature is:");
   double temp = double.parse(stdin.readLineSync()!);
 
   if (choice == 1) {
-    print("Fahrenheit: ${(temp * 9 / 5) + 32}");
+    print("Fahrenheit is: ${(temp * 9 / 5) + 32}");
   } else if (choice == 2) {
-    print("Celsius: ${(temp - 32) * 5 / 9}");
+    print("Celsius is: ${(temp - 32) * 5 / 9}");
   } else {
     print("Invalid choice");
   }
@@ -265,7 +265,7 @@ void main() {
   //checkSquare();
   //gradingSystem();
    //attendanceCheck();
-  reverseNumber();
+  //reverseNumber();
   // temperatureConversion();
   // checkNumberType();
   // fibonacciSeries();
