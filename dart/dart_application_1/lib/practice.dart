@@ -267,10 +267,10 @@ void main() {
    //attendanceCheck();
   //reverseNumber();
   // temperatureConversion();
-  checkNumberType();
-  // fibonacciSeries();
+  //checkNumberType();
+  //fibonacciSeries();
   // countCharacters();
-  // palindromeCheck();
+  palindromeCheck();
   // factorialProgram();
   // listOperations();
   // leapYearCheck();
