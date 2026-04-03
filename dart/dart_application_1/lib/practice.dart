@@ -220,13 +220,13 @@ void leapYearCheck() {
 
 // 13. Calculator
 void calculator() {
-  print("Enter first number:");
+  print("first number is:");
   double a = double.parse(stdin.readLineSync()!);
 
-  print("Enter second number:");
+  print("second number is:");
   double b = double.parse(stdin.readLineSync()!);
 
-  print("Enter operator:");
+  print("operator is:");
   String op = stdin.readLineSync()!;
 
   switch (op) {
@@ -273,7 +273,7 @@ void main() {
   //palindromeCheck();
   //factorialProgram();
   //listOperations();
-  leapYearCheck();
+  //leapYearCheck();
   // calculator();
   // multiplicationTable();
 }
