@@ -264,8 +264,8 @@ void multiplicationTable() {
 void main() {
   //checkSquare();
   //gradingSystem();
-   attendanceCheck();
-  // reverseNumber();
+   //attendanceCheck();
+  reverseNumber();
   // temperatureConversion();
   // checkNumberType();
   // fibonacciSeries();
